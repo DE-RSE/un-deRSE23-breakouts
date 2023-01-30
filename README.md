@@ -19,7 +19,7 @@ Please post ideas for sessions as [issues](). You need to have a GitHub account 
 *Please make sure that your break-out session ideas are understandable to everyone. We come from different fields. Use as little jargon as possible.* 
 :information_desk_person:
 
-We will decide on the final program **on a date TBD**.
+This will be a two-stage process: on **TBA** no more issues are accepted. Until **TBA** the existing proposals for a session can be discussed, merged, closed or finalized. We will decide on the final program based on what we have after this second deadline.
 
 If you run into any problems with this process, please contact the program chairs [Heidi Seibold](mailto:heidi@seibold.co) and/or [Robert Speck](mailto:r.speck@fz-juelich.de).
 
