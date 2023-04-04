@@ -10,7 +10,7 @@ Welcome to the repository for the deRSE Unconference 2023 break-out sessions.
 ## Form the program
 
 We will form the program of this event together :handshake: 
-Please post ideas for sessions as [issues](). You need to have a GitHub account in order to do so.
+Please post ideas for sessions as [issues](https://github.com/DE-RSE/un-deRSE23-breakouts/issues). You need to have a GitHub account in order to do so.
 
 - :bulb: Open a new issue for a new idea.
 - :cherries: Comment on existing issues if you have any thoughts or questions about it. You can also mention how you could contribute or anything else relevant to the break-out idea.
