@@ -5,6 +5,12 @@
 
 Welcome to the repository for the deRSE Unconference 2023 break-out sessions. 
 
+---------------------------
+
+#### :stop_sign: :construction:  **Submission for new break-outs is now closed. Please only discuss existing break-outs (open issues).**  :construction: :stop_sign:
+
+---------------------------
+
 *(For short talks please see https://un-derse23.sciencesconf.org)*
 
 ## Form the program
